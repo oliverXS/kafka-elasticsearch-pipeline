@@ -12,4 +12,4 @@ The architecture of the data pipeline is as follows:
 - Logstash sends the consumed data to Elasticsearch.
 - Kibana is used to visualize the data in Elasticsearch.
 
-![Real-time Data Monitoring Pipeline](/Users/xiaorui/文档/系统设计/Real-time Data Monitoring Pipeline.png)
+![Real-time Data Monitoring Pipeline](./images/Real-time-Data-Monitoring-Pipeline.png)
